@@ -79,3 +79,7 @@ Olsen, D. (2025). FinForensix teaching case: Fraud analytics with simulated invo
 License
 
 This project is licensed under the MIT License – free to use, adapt, and share with attribution.
+
+Acknowledgments
+
+Developed by David Olsen, Utah Tech University, for use in accounting analytics and fraud detection instruction.
